@@ -30,6 +30,6 @@ hi,nani
 2. Algorithm
 3. Project
 
-*Ground Rule
+* Ground Rule
 - Don't be late.
--I'm sorry.
+- I'm sorry.
