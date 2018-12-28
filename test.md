@@ -49,6 +49,7 @@ for i in range(0, 10):
 ```
 
 [text](edu.ssafy.com)
+
 ![SSAFY Image](https://edu.ssafy.com/assest/images/logo.png)
 
 |Name|Speciality|
