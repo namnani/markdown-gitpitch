@@ -11,8 +11,9 @@
 @size[3.0em](안녕히 가세요!)
 ---
 @title[제목3] 
-슬라이드 3
+@color[red](슬라이드 3)
 @transition[fade-in]
+
 
 ---
 @title[제목4] 
