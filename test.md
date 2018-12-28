@@ -34,8 +34,8 @@ hi,nani
   - Don't be late.
   - I'm sorry.
 
--[] not done
+- [ ] not done
 
--[x] done
+- [x] done
 
--[] hey
+- [ ] hey
