@@ -3,9 +3,7 @@
 슬라이드 1
 @transition[fade-in]
 @color[green](@size[2.0em](오늘도 발전하셨습니까?))
-@snap[south]
-아니요
-@snapend
+
 
 ---
 @title[제목2] 
