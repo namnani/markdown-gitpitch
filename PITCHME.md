@@ -6,6 +6,7 @@
 @snap[south]
 아니요
 @snapend
+
 ---
 @title[제목2] 
 슬라이드 2
