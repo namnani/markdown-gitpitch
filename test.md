@@ -33,3 +33,6 @@ hi,nani
 * Ground Rule
   - Don't be late.
   - I'm sorry.
+
+-[] not done
+-[x] done
