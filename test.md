@@ -48,7 +48,7 @@ for i in range(0, 10):
   print('Hello, World')
 ```
 
-[text] (edu.ssafy.com)
+[text](https://edu.ssafy.com)
 
 ![SSAFY Image](https://edu.ssafy.com/assest/images/logo.png)
 
