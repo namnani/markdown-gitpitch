@@ -2,7 +2,7 @@
 @title[제목1] 
 슬라이드 1
 @transition[fade-in]
-
+@size[2.0em](안녕)하세요!
 ---
 @title[제목2] 
 슬라이드 2
