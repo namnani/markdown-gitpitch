@@ -40,11 +40,11 @@ hi,nani
 
 - [ ] hey
 
-파이썬이 처음이라면 'print('Hello, World')'부터 해봅시다.
+파이썬이 처음이라면 `print('Hello, World')`부터 해봅시다.
 
 이번엔 다음과 같이 해볼까요?
-'''
+```
 for i in range(0, 10):
   print('Hello, World')
-'''
+```
 
