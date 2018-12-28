@@ -31,5 +31,5 @@ hi,nani
 3. Project
 
 * Ground Rule
-- Don't be late.
-- I'm sorry.
+  - Don't be late.
+  - I'm sorry.
