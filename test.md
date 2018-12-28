@@ -29,3 +29,7 @@ hi,nani
 1. Language
 2. Algorithm
 3. Project
+
+*Ground Rule
+- Don't be late.
+-I'm sorry.
