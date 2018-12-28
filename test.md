@@ -57,7 +57,7 @@ for i in range(0, 10):
 |John|Java|
 |Peter|Python|
 
-<www.naver.com>
+<http://naver.com>
 <okokoknow@naver.com>
 
 _hi_
