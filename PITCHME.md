@@ -2,7 +2,7 @@
 @title[제목1] 
 슬라이드 1
 @transition[fade-in]
-@color[green](@size[2.0em](안녕하세요!))
+@color[green](@size[2.0em](오늘도 발전하셨습니까?))
 
 ---
 @title[제목2] 
