@@ -12,8 +12,8 @@
 ##### Hi, nani!
 ###### Hi, nani!
 
-*Hey,nani!
-**Hey, nani!
-~~Hey, namnani!
+*Hey,nani!*
+**Hey, nani!**
+~~Hey, namnani!~~
 >Hey nani!!!
 \**Hey, nani!
