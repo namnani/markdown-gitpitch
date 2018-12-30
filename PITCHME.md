@@ -4,8 +4,12 @@
 @transition[fade-in]
 @color[green](@size[2.0em](오늘도 발전하셨습니까?))
 
-@snap[south]
-footer]
+@snap[earth]
+earth
+@snapend
+
+@snap[west]
+west
 @snapend
 
 ---
