@@ -7,6 +7,7 @@
 <br>
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+
 ---
 @title[제목1] 
 슬라이드 1
