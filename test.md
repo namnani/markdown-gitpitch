@@ -50,7 +50,7 @@ for i in range(0, 10):
 
 [text](https://edu.ssafy.com)
 
-![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
+![SSAFY](https://edu.ssafy.com/asset/images/logo.png)
 
 |Name|Speciality|
 |------|----------|
