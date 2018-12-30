@@ -1,4 +1,9 @@
 
+@title[Introduction]
+
+# Git<span class="gold">Pitch</span>
+
+---
 @title[제목1] 
 슬라이드 1
 @transition[fade-in]
