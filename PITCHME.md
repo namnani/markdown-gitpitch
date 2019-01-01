@@ -1,4 +1,4 @@
----?color=#FFFFFF
+---?color=#ffd9a4
 
 @box[bg-orange text-white rounded demo-box-pad] (Lorem ipsum dolor sit amet)
 
