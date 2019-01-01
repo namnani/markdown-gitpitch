@@ -3,9 +3,7 @@
 @box[bg-orange text-white rounded demo-box-pad] (Lorem ipsum dolor sit amet)
 
 
----
-
-+++?color=black
+---?color=black
 
 @snap[north-west span-35]
 @box[bg-green text-white demo-box-pad](1. Plan#Lorem ipsum dolor sit amet eiusmod)
