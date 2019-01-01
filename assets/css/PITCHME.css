@@ -51,3 +51,8 @@ span.aside {
   word-wrap: break-word;
   display: block;
 }
+
+.demo-box-pad #boxed-text{
+  padding-top: 1.95em;
+  padding-bottom: 1.95em;
+}
