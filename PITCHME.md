@@ -1,3 +1,10 @@
+---?color=#F6D365
+
+@box[bg-orange text-white rounded demo-box-pad] (Lorem ipsum dolor sit amet)
+
+
+---
+
 @title[Introduction]
 
 # Git<span class="gold">Pitch</span>
