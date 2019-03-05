@@ -1,4 +1,4 @@
-@title[Introduction]  
+@title[Introduction]   
 
 # Git<span class="gold">Pitch</span>
   
